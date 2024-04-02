@@ -1,6 +1,6 @@
 # Diabetes Predictor Models
 
-Allen Chang
+Allen Chang /n
 29 March 2024
 Comparing Machine Learning Models for Diabetes Prediction
 Abstract
