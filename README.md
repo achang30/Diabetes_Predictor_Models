@@ -4,7 +4,7 @@ Allen Chang
 
 29 March 2024
 
-# Note
+### Note
 
 A more detailed report can be found under the QBIO 401 Final Report.
 
