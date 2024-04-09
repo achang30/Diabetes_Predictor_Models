@@ -4,6 +4,10 @@ Allen Chang
 
 29 March 2024
 
+# Note
+
+A more detailed report can be found under the QBIO 401 Final Report.
+
 ## Abstract
 
 In this study, I aim to identify the best model for diabetes prediction. Here, I will be comparing a simple logistic regression, a neural network, and a decision tree classifier. The features I will consider are age, hypertension, heart disease, body mass index, HbA1c level, and blood glucose level. 
